@@ -1,4 +1,6 @@
-1. ¿Qué es la memoria RAM?  💻
+1. ¿MEMORIA RAM?  💻
+
+Almacena temporalmente los datos que la CPU necesita para ejecutar programas (sistema operativo, juegos, apps, etc.).
 
 👩‍💻Pierde su contenido cuando se apaga la computadora.  🖨️
 
