@@ -19,13 +19,13 @@ DDR5          2020       8GB	         128GB         4800MHz a 8400MHz           
 
 2. ¿ALMACENAMIENTO? 🖨️
 
-MAS MODERNO SSD SATA                                                              |   SSD M.2 NVME    
+SSD SATA                                                                          |   SSD M.2 NVME      MARCAS RECOMENDABLES
+                                                                                  |      
+MB/s (Megabytes por segundo) 'KB' menos                 MARCAS BUENAS             |   Minimo 250gb       Kingston 
+                                                                                  |   
+120GB–128GB → Mínimo                                    Samsung 870 EVO           |  Baisico 500gb       Crucial P5 Plus 
                                                                                   |
-SSD SATA                                                MARCAS BUENAS             |
-                                                                                  |
-120GB–128GB → Mínimo                                    Samsung 870 EVO           |
-                                                                                  |
-240GB–256GB → Básico                                    Crucial MX500             |
+240GB–256GB → Básico                                    Crucial MX500             |  maximo 2 a 4 TB     TeamGroup Z440
                                                                                   |
 480GB–512GB → Buen equilibrio                           WD Blue 3D NAND           |
                                                                                   |
