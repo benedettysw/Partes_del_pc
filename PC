@@ -1,0 +1,11 @@
+1. ¿Qué es la memoria RAM?  💻
+
+👩‍💻Pierde su contenido cuando se apaga la computadora.  🖨️
+
+Generación    Año         Amin          Amax         Velocida 'frecuencia' (MHz)        Tamaño de disponible
+
+DDR3          2007       1GB            8Gb           800MHz a 2133MHz                  1 GB, 2 GB, 4 GB, 8 GB 
+
+DDR4          2014       4GB  	       64GB          1600MHz a 4800MHz                  4 GB, 8 GB, 16 GB, 32 GB.
+
+DDR5          2020       8GB	         128GB         4800MHz a 8400MHz                  8 GB, 16 GB, 32 GB, 64 GB.
