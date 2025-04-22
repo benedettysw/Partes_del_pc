@@ -57,6 +57,20 @@ RYZEN 9  ELITE 🔥                   12-16                    'U' BAJO CONSUMO 
 
                                                               'SIN LETRA' VERSION ESTANDAR (BUEN RENDIMIENTO)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INTEL
+
+                                                                                             SIN LETRA (VERSION ESTANDAR)                      Letras para LAPTOPS
+
+1. INTEL CORE I3: --------------- BÁSICO ------------------(4 NÚCLEOS) 💻                   'K'   Desbloqueado (para overclock)               'H'    Alto rendimiento	
+
+2. INTEL CORE I5:--------------- GAMA MEDIA --------------- (6-14 NÚCLEOS) ⚡               'KF'  Desbloqueado sin gráficos	                   'HX'  Extremo rendimiento	
+
+3. INTEL CORE I7: ---------------ALTO RENDIMIENTO --------- (8-16 NÚCLEOS) 🚀               'F' Sin gráficos integrados	                       'U'  Ultra bajo consumo (15W)	
+
+4. INTEL CORE I9: ---------------ELITE --------------------(16-24 NÚCLEOS) 👑               'T' Bajo consumo (35-45W)	                         'P'  Balanceado (28W)	(Equilibrio rendimiento-batería)
+   
 
 
 
